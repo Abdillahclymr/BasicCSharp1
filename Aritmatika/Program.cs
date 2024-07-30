@@ -21,7 +21,7 @@ namespace Aritmatika
                 hasil = angka1 + angka2;
 
                 Console.WriteLine(hasil);
-                Console.WriteLine("");
+
             }
         }
 
