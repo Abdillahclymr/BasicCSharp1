@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld1", "HelloWorld1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aritmatika", "Aritmatika\Aritmatika.csproj", "{DEBC966D-DA67-4F43-8DAE-A19930E15A0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{579BE165-7E60-466E-B6F0-6DD4007C655E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DEBC966D-DA67-4F43-8DAE-A19930E15A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEBC966D-DA67-4F43-8DAE-A19930E15A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEBC966D-DA67-4F43-8DAE-A19930E15A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579BE165-7E60-466E-B6F0-6DD4007C655E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579BE165-7E60-466E-B6F0-6DD4007C655E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579BE165-7E60-466E-B6F0-6DD4007C655E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579BE165-7E60-466E-B6F0-6DD4007C655E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

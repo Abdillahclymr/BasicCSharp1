@@ -22,6 +22,7 @@ namespace Aritmatika
                 hasil2 = angka1 - angka2;
                 hasil3 = angka1 * angka2;
                 hasil4 = angka1 / angka2;
+                Console.WriteLine();
                 Console.WriteLine("Penjumlahan : " + hasil1);
                 Console.WriteLine("Pengurangan : " + hasil2);
                 Console.WriteLine("Perkalian : " + hasil3);
