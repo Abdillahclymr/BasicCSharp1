@@ -27,9 +27,10 @@ namespace HelloWorld1
             nama = Console.ReadLine();
             Console.WriteLine("Masukan asal : ");
             asal = Console.ReadLine();
-            
-            
-            
+            Console.WriteLine("Masukan umur : ");
+            umur = Console.ReadLine();
+
+
             Console.WriteLine("\nHallo {0} dari {1} selamat datang di C#",nama,asal);
         }
     }
