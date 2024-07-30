@@ -19,10 +19,9 @@ namespace Aritmatika
                 angka2 = int.Parse(Console.ReadLine());
 
                 hasil1 = angka1 + angka2;
-              
-
+                hasil2 = angka1 - angka2;
                 Console.WriteLine("Penjumlahan : " + hasil1);
-               
+                Console.WriteLine("Pengurangan : " + hasil2);
             }
         }
 
