@@ -11,17 +11,18 @@ namespace Aritmatika
         static void Main(string[] args)
         {
             {
-                int angka1, angka2, hasil;
+                int angka1, angka2, hasil1, hasil2, hasil3, hasil4;
                 Console.WriteLine("Silahkan masukkan angka pertama");
                 angka1 = int.Parse(Console.ReadLine());
                 Console.WriteLine();
                 Console.WriteLine("Silahkan masukkan angka kedua");
                 angka2 = int.Parse(Console.ReadLine());
 
-                hasil = angka1 + angka2;
+                hasil1 = angka1 + angka2;
+              
 
-                Console.WriteLine(hasil);
-
+                Console.WriteLine("Penjumlahan : " + hasil1);
+               
             }
         }
 
